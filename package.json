@@ -1,0 +1,20 @@
+{
+  "name": "quiaest",
+  "description": "Underscore's extend method as a standalone Common JS module.",
+  "version": "1.0.0",
+  "author": "EarnestWilderman",
+  "bugs": {
+    "url": "https://github.com/MyleneMcClure/quiaest.git/issues"
+  },
+  "keywords": [
+    "extend",
+    "object",
+    "officia"
+  ],
+  "license": "MIT",
+  "main": "extend-object.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyleneMcClure/quiaest.git"
+  }
+}
